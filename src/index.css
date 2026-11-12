@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+/* ===== Design tokens — tema "arena": fundo escuro, cor do time como acento ===== */
+@theme {
+  --font-display: "Barlow Condensed", "Arial Narrow", Impact, sans-serif;
+  --font-sans: "Manrope", system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  --color-ink-950: #07090f;   /* fundo principal */
+  --color-ink-900: #0d111a;   /* superfícies */
+  --color-ink-800: #161c29;   /* cards / bordas */
+  --color-ink-700: #242b3b;
+  --color-ink-400: #8a93a8;   /* texto secundário */
+  --color-ink-100: #eef1f7;   /* texto principal */
+
+  --color-court: #f7b733;     /* dourado "bola de basquete" — acento global da marca */
+  --color-court-deep: #d9951a;
+  --color-nba-blue: #1d428a;
+  --color-nba-red: #c8102e;
+  --color-whats: #25d366;
+
+  --radius-card: 1rem;
+  --shadow-card: 0 10px 30px -12px rgba(0,0,0,.6);
+}
+
+:root {
+  /* Cor do time atual: componentes podem sobrescrever `--team` e `--team-2` por elemento (style={{'--team': ...}}) */
+  --team: #1d428a;
+  --team-2: #c8102e;
+  color-scheme: dark;
+}
+
+html { scroll-behavior: smooth; }
+body {
+  @apply bg-ink-950 text-ink-100 font-sans antialiased;
+  min-height: 100dvh;
+}
+
+/* utilitários compartilhados */
+.container-x { @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8; }
+.btn-primary { @apply inline-flex items-center justify-center gap-2 rounded-xl bg-court px-5 py-3 font-bold text-ink-950 transition hover:bg-court-deep focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-court; }
+.btn-whats { @apply inline-flex items-center justify-center gap-2 rounded-xl bg-whats px-5 py-3 font-bold text-ink-950 transition hover:brightness-110; }
+.btn-ghost { @apply inline-flex items-center justify-center gap-2 rounded-xl border border-ink-700 px-5 py-3 font-semibold text-ink-100 transition hover:border-ink-400; }
+.chip { @apply inline-flex items-center gap-1.5 rounded-full border border-ink-700 bg-ink-900 px-3.5 py-1.5 text-sm font-semibold text-ink-100 transition hover:border-ink-400 aria-pressed:border-court aria-pressed:bg-court aria-pressed:text-ink-950; }

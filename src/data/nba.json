@@ -1,0 +1,3352 @@
+[
+ {
+  "id": "NBA-ATL-01",
+  "nome": "Regata Atlanta Hawks Branca",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Atlanta Hawks"
+ },
+ {
+  "id": "NBA-ATL-02",
+  "nome": "Regata Atlanta Hawks Vermelha",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Atlanta Hawks"
+ },
+ {
+  "id": "NBA-ATL-03",
+  "nome": "Regata Atlanta Hawks Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Atlanta Hawks"
+ },
+ {
+  "id": "NBA-ATL-04",
+  "nome": "Regata Atlanta Hawks 2025/26 City Edition",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Atlanta Hawks"
+ },
+ {
+  "id": "NBA-ATL-05",
+  "nome": "Regata Retrô Atlanta Hawks 1985/86 Vermelha",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Atlanta Hawks"
+ },
+ {
+  "id": "NBA-ATL-06",
+  "nome": "Regata Retrô Atlanta Hawks 1994/95 Azul",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Atlanta Hawks"
+ },
+ {
+  "id": "NBA-BOS-01",
+  "nome": "Regata Boston Celtics Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 6,
+  "liga": "nba",
+  "time": "Boston Celtics"
+ },
+ {
+  "id": "NBA-BOS-02",
+  "nome": "Regata Boston Celtics Branca",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Boston Celtics"
+ },
+ {
+  "id": "NBA-BOS-03",
+  "nome": "Regata Boston Celtics Verde",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "Boston Celtics"
+ },
+ {
+  "id": "NBA-BOS-04",
+  "nome": "Regata Boston Celtics Cinza",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Boston Celtics"
+ },
+ {
+  "id": "NBA-BOS-05",
+  "nome": "Regata Boston Celtics 2026 City Edition Branca",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Boston Celtics"
+ },
+ {
+  "id": "NBA-BOS-06",
+  "nome": "Regata Boston Celtics 2025 City Edition Preta",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 6,
+  "liga": "nba",
+  "time": "Boston Celtics"
+ },
+ {
+  "id": "NBA-BOS-07",
+  "nome": "Regata Boston Celtics 2023 City Edition Verde",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Boston Celtics"
+ },
+ {
+  "id": "NBA-BOS-08",
+  "nome": "Regata Boston Celtics City Edition Verde",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Boston Celtics"
+ },
+ {
+  "id": "NBA-BOS-09",
+  "nome": "Regata Retrô Boston Celtics Mitchell & Ness Verde",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Boston Celtics"
+ },
+ {
+  "id": "NBA-BOS-10",
+  "nome": "Regata Retrô Boston Celtics 1985/86 Preta",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Boston Celtics"
+ },
+ {
+  "id": "NBA-BOS-11",
+  "nome": "Regata Retrô Boston Celtics 2007 Verde",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 11,
+  "liga": "nba",
+  "time": "Boston Celtics"
+ },
+ {
+  "id": "NBA-BOS-12",
+  "nome": "Regata Retrô Boston Celtics 2008 Branca",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Boston Celtics"
+ },
+ {
+  "id": "NBA-BOS-13",
+  "nome": "Regata Infantil Boston Celtics Verde",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "Boston Celtics"
+ },
+ {
+  "id": "NBA-BOS-14",
+  "nome": "Regata Infantil Boston Celtics Branca",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "Boston Celtics"
+ },
+ {
+  "id": "NBA-BKN-01",
+  "nome": "Regata Brooklyn Nets Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "Brooklyn Nets"
+ },
+ {
+  "id": "NBA-BKN-02",
+  "nome": "Regata Brooklyn Nets Azul",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Brooklyn Nets"
+ },
+ {
+  "id": "NBA-BKN-03",
+  "nome": "Regata Brooklyn Nets 2021 City Edition Branca",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Brooklyn Nets"
+ },
+ {
+  "id": "NBA-BKN-04",
+  "nome": "Regata Brooklyn Nets City Edition Preta",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Brooklyn Nets"
+ },
+ {
+  "id": "NBA-BKN-05",
+  "nome": "Regata Brooklyn Nets City Edition Branca",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "Brooklyn Nets"
+ },
+ {
+  "id": "NBA-BKN-06",
+  "nome": "Regata Retrô Brooklyn Nets 1993 Azul",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Brooklyn Nets"
+ },
+ {
+  "id": "NBA-BKN-07",
+  "nome": "Regata Retrô Brooklyn Nets 1993 Preta",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Brooklyn Nets"
+ },
+ {
+  "id": "NBA-BKN-08",
+  "nome": "Regata Retrô Brooklyn Nets 2006/07 Azul-marinho",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Brooklyn Nets"
+ },
+ {
+  "id": "NBA-BKN-09",
+  "nome": "Regata Infantil Brooklyn Nets Azul-marinho",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 5,
+  "liga": "nba",
+  "time": "Brooklyn Nets"
+ },
+ {
+  "id": "NBA-BKN-10",
+  "nome": "Regata Infantil Brooklyn Nets Branca",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Brooklyn Nets"
+ },
+ {
+  "id": "NBA-CHA-01",
+  "nome": "Regata Charlotte Hornets Branca",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Charlotte Hornets"
+ },
+ {
+  "id": "NBA-CHA-02",
+  "nome": "Regata Charlotte Hornets",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Charlotte Hornets"
+ },
+ {
+  "id": "NBA-CHA-03",
+  "nome": "Regata Charlotte Hornets 2025/26 City Edition Azul",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Charlotte Hornets"
+ },
+ {
+  "id": "NBA-CHA-04",
+  "nome": "Regata Charlotte Hornets 2018 City Edition Preta",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Charlotte Hornets"
+ },
+ {
+  "id": "NBA-CHA-05",
+  "nome": "Regata Retrô Charlotte Hornets 2020 Roxa",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Charlotte Hornets"
+ },
+ {
+  "id": "NBA-CHA-06",
+  "nome": "Regata Retrô Charlotte Hornets 2026 Branca",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Charlotte Hornets"
+ },
+ {
+  "id": "NBA-CHI-01",
+  "nome": "Regata Chicago Bulls Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 18,
+  "liga": "nba",
+  "time": "Chicago Bulls"
+ },
+ {
+  "id": "NBA-CHI-02",
+  "nome": "Regata Chicago Bulls Branca",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 7,
+  "liga": "nba",
+  "time": "Chicago Bulls"
+ },
+ {
+  "id": "NBA-CHI-03",
+  "nome": "Regata Chicago Bulls Vermelha",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "Chicago Bulls"
+ },
+ {
+  "id": "NBA-CHI-04",
+  "nome": "Regata Chicago Bulls Azul",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Chicago Bulls"
+ },
+ {
+  "id": "NBA-CHI-05",
+  "nome": "Regata Chicago Bulls 2025/26 City Edition Branca",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Chicago Bulls"
+ },
+ {
+  "id": "NBA-CHI-06",
+  "nome": "Regata Chicago Bulls Honor Edition Preta",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Chicago Bulls"
+ },
+ {
+  "id": "NBA-CHI-07",
+  "nome": "Regata Chicago Bulls City Edition Branca",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "Chicago Bulls"
+ },
+ {
+  "id": "NBA-CHI-08",
+  "nome": "Regata Retrô Chicago Bulls Mitchell & Ness Vermelha",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Chicago Bulls"
+ },
+ {
+  "id": "NBA-CHI-09",
+  "nome": "Regata Retrô Chicago Bulls 1997/98 Branca",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Chicago Bulls"
+ },
+ {
+  "id": "NBA-CHI-10",
+  "nome": "Regata Retrô Chicago Bulls 1997/98 Preta",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "Chicago Bulls"
+ },
+ {
+  "id": "NBA-CHI-11",
+  "nome": "Regata Retrô Chicago Bulls 2008/09 Verde",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Chicago Bulls"
+ },
+ {
+  "id": "NBA-CHI-12",
+  "nome": "Regata Retrô Chicago Bulls 2016/17 Vermelha",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Chicago Bulls"
+ },
+ {
+  "id": "NBA-CHI-13",
+  "nome": "Regata Infantil Chicago Bulls Branca",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Chicago Bulls"
+ },
+ {
+  "id": "NBA-CHI-14",
+  "nome": "Regata Infantil Chicago Bulls Preta",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Chicago Bulls"
+ },
+ {
+  "id": "NBA-CHI-15",
+  "nome": "Regata Infantil Chicago Bulls Vermelha",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Chicago Bulls"
+ },
+ {
+  "id": "NBA-CLE-01",
+  "nome": "Regata Cleveland Cavaliers Vermelha",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Cleveland Cavaliers"
+ },
+ {
+  "id": "NBA-CLE-02",
+  "nome": "Regata Cleveland Cavaliers Branca",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Cleveland Cavaliers"
+ },
+ {
+  "id": "NBA-CLE-03",
+  "nome": "Regata Cleveland Cavaliers Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 6,
+  "liga": "nba",
+  "time": "Cleveland Cavaliers"
+ },
+ {
+  "id": "NBA-CLE-04",
+  "nome": "Regata Cleveland Cavaliers 2026 City Edition Laranja",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Cleveland Cavaliers"
+ },
+ {
+  "id": "NBA-CLE-05",
+  "nome": "Regata Cleveland Cavaliers 2025/26 City Edition Azul",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Cleveland Cavaliers"
+ },
+ {
+  "id": "NBA-CLE-06",
+  "nome": "Regata Cleveland Cavaliers City Edition Branca",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Cleveland Cavaliers"
+ },
+ {
+  "id": "NBA-CLE-07",
+  "nome": "Regata Retrô Cleveland Cavaliers 2003/04 Vermelha",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Cleveland Cavaliers"
+ },
+ {
+  "id": "NBA-CLE-08",
+  "nome": "Regata Retrô Cleveland Cavaliers 2003/04 Branca",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Cleveland Cavaliers"
+ },
+ {
+  "id": "NBA-CLE-09",
+  "nome": "Regata Retrô Cleveland Cavaliers 2008/09 Azul-marinho",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Cleveland Cavaliers"
+ },
+ {
+  "id": "NBA-CLE-10",
+  "nome": "Regata Retrô Cleveland Cavaliers 2011/12 Azul Safira",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Cleveland Cavaliers"
+ },
+ {
+  "id": "NBA-CLE-11",
+  "nome": "Regata Retrô Cleveland Cavaliers 2025/26 City Edition Azul",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Cleveland Cavaliers"
+ },
+ {
+  "id": "NBA-CLE-12",
+  "nome": "Regata Retrô Cleveland Cavaliers 2026 City Edition Laranja",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Cleveland Cavaliers"
+ },
+ {
+  "id": "NBA-CLE-13",
+  "nome": "Regata Retrô Cleveland Cavaliers 2026 Azul-bebê",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Cleveland Cavaliers"
+ },
+ {
+  "id": "NBA-DAL-01",
+  "nome": "Regata Dallas Mavericks Branca",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 9,
+  "liga": "nba",
+  "time": "Dallas Mavericks"
+ },
+ {
+  "id": "NBA-DAL-02",
+  "nome": "Regata Dallas Mavericks Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Dallas Mavericks"
+ },
+ {
+  "id": "NBA-DAL-03",
+  "nome": "Regata Dallas Mavericks Azul",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 7,
+  "liga": "nba",
+  "time": "Dallas Mavericks"
+ },
+ {
+  "id": "NBA-DAL-04",
+  "nome": "Regata Dallas Mavericks Azul Safira",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 5,
+  "liga": "nba",
+  "time": "Dallas Mavericks"
+ },
+ {
+  "id": "NBA-DAL-05",
+  "nome": "Regata Dallas Mavericks 2026/27 City Edition Preta",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "Dallas Mavericks"
+ },
+ {
+  "id": "NBA-DAL-06",
+  "nome": "Regata Dallas Mavericks 2025 City Edition Azul",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Dallas Mavericks"
+ },
+ {
+  "id": "NBA-DAL-07",
+  "nome": "Regata Dallas Mavericks 2025 City Edition Azul Safira",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Dallas Mavericks"
+ },
+ {
+  "id": "NBA-DAL-08",
+  "nome": "Regata Dallas Mavericks 2025 City Edition Preta",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Dallas Mavericks"
+ },
+ {
+  "id": "NBA-DAL-09",
+  "nome": "Regata Dallas Mavericks 2025 City Edition Branca",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Dallas Mavericks"
+ },
+ {
+  "id": "NBA-DAL-10",
+  "nome": "Regata Dallas Mavericks Honor Edition Preta",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Dallas Mavericks"
+ },
+ {
+  "id": "NBA-DAL-11",
+  "nome": "Regata Dallas Mavericks City Edition Branca",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Dallas Mavericks"
+ },
+ {
+  "id": "NBA-DAL-12",
+  "nome": "Regata Dallas Mavericks City Edition Azul Safira",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Dallas Mavericks"
+ },
+ {
+  "id": "NBA-DAL-13",
+  "nome": "Regata Dallas Mavericks City Edition Azul",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Dallas Mavericks"
+ },
+ {
+  "id": "NBA-DAL-14",
+  "nome": "Regata Retrô Dallas Mavericks 2010/11 Branca",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Dallas Mavericks"
+ },
+ {
+  "id": "NBA-DAL-15",
+  "nome": "Regata Retrô Dallas Mavericks 2026 Verde",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 7,
+  "liga": "nba",
+  "time": "Dallas Mavericks"
+ },
+ {
+  "id": "NBA-DAL-16",
+  "nome": "Regata Infantil Dallas Mavericks Azul",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Dallas Mavericks"
+ },
+ {
+  "id": "NBA-DAL-17",
+  "nome": "Regata Infantil Dallas Mavericks Branca",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Dallas Mavericks"
+ },
+ {
+  "id": "NBA-DEN-01",
+  "nome": "Regata Denver Nuggets Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Denver Nuggets"
+ },
+ {
+  "id": "NBA-DEN-02",
+  "nome": "Regata Denver Nuggets Azul Safira",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Denver Nuggets"
+ },
+ {
+  "id": "NBA-DEN-03",
+  "nome": "Regata Denver Nuggets Azul",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Denver Nuggets"
+ },
+ {
+  "id": "NBA-DEN-04",
+  "nome": "Regata Denver Nuggets Azul Royal",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Denver Nuggets"
+ },
+ {
+  "id": "NBA-DEN-05",
+  "nome": "Regata Denver Nuggets Azul-marinho",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Denver Nuggets"
+ },
+ {
+  "id": "NBA-DEN-06",
+  "nome": "Regata Denver Nuggets 2026 City Edition Preta",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Denver Nuggets"
+ },
+ {
+  "id": "NBA-DEN-07",
+  "nome": "Regata Denver Nuggets 2025 City Edition Branca",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 5,
+  "liga": "nba",
+  "time": "Denver Nuggets"
+ },
+ {
+  "id": "NBA-DEN-08",
+  "nome": "Regata Denver Nuggets 2024 City Edition Preta",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Denver Nuggets"
+ },
+ {
+  "id": "NBA-DEN-09",
+  "nome": "Regata Retrô Denver Nuggets 2003/04 Azul",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Denver Nuggets"
+ },
+ {
+  "id": "NBA-DEN-10",
+  "nome": "Regata Retrô Denver Nuggets 2006/07 Branca",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 5,
+  "liga": "nba",
+  "time": "Denver Nuggets"
+ },
+ {
+  "id": "NBA-DEN-11",
+  "nome": "Regata Retrô Denver Nuggets 2006/07 Azul-marinho",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Denver Nuggets"
+ },
+ {
+  "id": "NBA-DET-01",
+  "nome": "Regata Detroit Pistons Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Detroit Pistons"
+ },
+ {
+  "id": "NBA-DET-02",
+  "nome": "Regata Retrô Detroit Pistons 1998/99 Mitchell & Ness Verde",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Detroit Pistons"
+ },
+ {
+  "id": "NBA-DET-03",
+  "nome": "Regata Retrô Detroit Pistons 1998/99 Mitchell & Ness Preta",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Detroit Pistons"
+ },
+ {
+  "id": "NBA-DET-04",
+  "nome": "Regata Retrô Detroit Pistons 1998/99 Mitchell & Ness Branca",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Detroit Pistons"
+ },
+ {
+  "id": "NBA-DET-05",
+  "nome": "Regata Retrô Detroit Pistons 2008/09 Vermelha",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Detroit Pistons"
+ },
+ {
+  "id": "NBA-DET-06",
+  "nome": "Regata Retrô Detroit Pistons 2008/09 Azul",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Detroit Pistons"
+ },
+ {
+  "id": "NBA-GSW-01",
+  "nome": "Regata Golden State Warriors Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 12,
+  "liga": "nba",
+  "time": "Golden State Warriors"
+ },
+ {
+  "id": "NBA-GSW-02",
+  "nome": "Regata Golden State Warriors Branca",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Golden State Warriors"
+ },
+ {
+  "id": "NBA-GSW-03",
+  "nome": "Regata Golden State Warriors Azul",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Golden State Warriors"
+ },
+ {
+  "id": "NBA-GSW-04",
+  "nome": "Regata Golden State Warriors",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Golden State Warriors"
+ },
+ {
+  "id": "NBA-GSW-05",
+  "nome": "Regata Golden State Warriors Azul Royal",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Golden State Warriors"
+ },
+ {
+  "id": "NBA-GSW-06",
+  "nome": "Regata Golden State Warriors 2026/27 City Edition Bege",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Golden State Warriors"
+ },
+ {
+  "id": "NBA-GSW-07",
+  "nome": "Regata Golden State Warriors 2025 City Edition Preta",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 7,
+  "liga": "nba",
+  "time": "Golden State Warriors"
+ },
+ {
+  "id": "NBA-GSW-08",
+  "nome": "Regata Golden State Warriors 2025 City Edition",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "Golden State Warriors"
+ },
+ {
+  "id": "NBA-GSW-09",
+  "nome": "Regata Golden State Warriors Honor Edition Preta",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Golden State Warriors"
+ },
+ {
+  "id": "NBA-GSW-10",
+  "nome": "Regata Golden State Warriors City Edition Preta",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Golden State Warriors"
+ },
+ {
+  "id": "NBA-GSW-11",
+  "nome": "Regata Retrô Golden State Warriors 2009/10 Azul",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "Golden State Warriors"
+ },
+ {
+  "id": "NBA-GSW-12",
+  "nome": "Regata Retrô Golden State Warriors 2009/10 Laranja",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Golden State Warriors"
+ },
+ {
+  "id": "NBA-GSW-13",
+  "nome": "Regata Retrô Golden State Warriors 2024/25 Branca",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Golden State Warriors"
+ },
+ {
+  "id": "NBA-GSW-14",
+  "nome": "Regata Infantil Golden State Warriors Preta",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Golden State Warriors"
+ },
+ {
+  "id": "NBA-GSW-15",
+  "nome": "Regata Infantil Golden State Warriors Azul",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Golden State Warriors"
+ },
+ {
+  "id": "NBA-GSW-16",
+  "nome": "Regata Infantil Golden State Warriors Branca",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Golden State Warriors"
+ },
+ {
+  "id": "NBA-HOU-01",
+  "nome": "Regata Houston Rockets Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Houston Rockets"
+ },
+ {
+  "id": "NBA-HOU-02",
+  "nome": "Regata Houston Rockets Branca",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Houston Rockets"
+ },
+ {
+  "id": "NBA-HOU-03",
+  "nome": "Regata Houston Rockets Vermelha",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Houston Rockets"
+ },
+ {
+  "id": "NBA-HOU-04",
+  "nome": "Regata Houston Rockets 2025 City Edition Branca",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Houston Rockets"
+ },
+ {
+  "id": "NBA-HOU-05",
+  "nome": "Regata Houston Rockets 2020 City Edition Branca",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Houston Rockets"
+ },
+ {
+  "id": "NBA-HOU-06",
+  "nome": "Regata Houston Rockets City Edition Branca",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "Houston Rockets"
+ },
+ {
+  "id": "NBA-HOU-07",
+  "nome": "Regata Houston Rockets City Edition",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Houston Rockets"
+ },
+ {
+  "id": "NBA-HOU-08",
+  "nome": "Regata Retrô Houston Rockets 1999/00 Azul",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Houston Rockets"
+ },
+ {
+  "id": "NBA-HOU-09",
+  "nome": "Regata Retrô Houston Rockets 2004/05 Vermelha",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Houston Rockets"
+ },
+ {
+  "id": "NBA-IND-01",
+  "nome": "Regata Indiana Pacers 2025 City Edition Branca",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Indiana Pacers"
+ },
+ {
+  "id": "NBA-IND-02",
+  "nome": "Regata Indiana Pacers 2019 City Edition Azul",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Indiana Pacers"
+ },
+ {
+  "id": "NBA-LAC-01",
+  "nome": "Regata LA Clippers Branca",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "LA Clippers"
+ },
+ {
+  "id": "NBA-LAC-02",
+  "nome": "Regata LA Clippers Azul-marinho",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "LA Clippers"
+ },
+ {
+  "id": "NBA-LAC-03",
+  "nome": "Regata LA Clippers Vermelha",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "LA Clippers"
+ },
+ {
+  "id": "NBA-LAC-04",
+  "nome": "Regata LA Clippers Azul",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 5,
+  "liga": "nba",
+  "time": "LA Clippers"
+ },
+ {
+  "id": "NBA-LAC-05",
+  "nome": "Regata LA Clippers Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "LA Clippers"
+ },
+ {
+  "id": "NBA-LAC-06",
+  "nome": "Regata LA Clippers 2026 City Edition Laranja",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "LA Clippers"
+ },
+ {
+  "id": "NBA-LAC-07",
+  "nome": "Regata LA Clippers 2025 City Edition Azul",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "LA Clippers"
+ },
+ {
+  "id": "NBA-LAC-08",
+  "nome": "Regata LA Clippers City Edition Azul Safira",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "LA Clippers"
+ },
+ {
+  "id": "NBA-LAC-09",
+  "nome": "Regata LA Clippers City Edition Preta",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "LA Clippers"
+ },
+ {
+  "id": "NBA-LAC-10",
+  "nome": "Regata Infantil LA Clippers Azul",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "LA Clippers"
+ },
+ {
+  "id": "NBA-LAC-11",
+  "nome": "Regata Infantil LA Clippers Branca",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "LA Clippers"
+ },
+ {
+  "id": "NBA-LAL-01",
+  "nome": "Regata Los Angeles Lakers Roxa",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 6,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-02",
+  "nome": "Regata Los Angeles Lakers Amarela",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 12,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-03",
+  "nome": "Regata Los Angeles Lakers Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 5,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-04",
+  "nome": "Regata Los Angeles Lakers Branca",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 15,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-05",
+  "nome": "Regata Los Angeles Lakers Azul",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 25,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-06",
+  "nome": "Regata Los Angeles Lakers",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-07",
+  "nome": "Regata Los Angeles Lakers",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-08",
+  "nome": "Regata Los Angeles Lakers",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-09",
+  "nome": "Regata Los Angeles Lakers 2025 City Edition",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 12,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-10",
+  "nome": "Regata Los Angeles Lakers 2025 City Edition Branca",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-11",
+  "nome": "Regata Los Angeles Lakers 2025 City Edition Preta",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-12",
+  "nome": "Regata Los Angeles Lakers 2024 City Edition",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-13",
+  "nome": "Regata Los Angeles Lakers Listrada Roxa",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-14",
+  "nome": "Regata Los Angeles Lakers City Edition Branca",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 5,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-15",
+  "nome": "Regata Los Angeles Lakers Honor Edition Preta",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-16",
+  "nome": "Regata Los Angeles Lakers Snake Preta",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 5,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-17",
+  "nome": "Regata Retrô Los Angeles Lakers Mitchell & Ness Amarela",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-18",
+  "nome": "Regata Retrô Los Angeles Lakers Mitchell & Ness Roxa",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-19",
+  "nome": "Regata Retrô Los Angeles Lakers 1996/97 Mitchell & Ness Preta",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-20",
+  "nome": "Regata Retrô Los Angeles Lakers 1996/97 Mitchell & Ness Branca",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-21",
+  "nome": "Regata Retrô Los Angeles Lakers 2001/02 Azul",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-22",
+  "nome": "Regata Retrô Los Angeles Lakers 2004/05 Azul-claro",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-23",
+  "nome": "Regata Retrô Los Angeles Lakers 2008/09 Roxa",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 8,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-24",
+  "nome": "Regata Retrô Los Angeles Lakers 2023 Amarela",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 11,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-25",
+  "nome": "Regata Retrô Los Angeles Lakers 2025 Branca",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 9,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-26",
+  "nome": "Regata Infantil Los Angeles Lakers 2024/25 City Edition Preta",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 5,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-27",
+  "nome": "Regata Infantil Los Angeles Lakers Amarela",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 5,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-28",
+  "nome": "Regata Infantil Los Angeles Lakers Branca",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 5,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-29",
+  "nome": "Regata Infantil Los Angeles Lakers Preta",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-MEM-01",
+  "nome": "Regata Memphis Grizzlies Azul-marinho",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Memphis Grizzlies"
+ },
+ {
+  "id": "NBA-MEM-02",
+  "nome": "Regata Memphis Grizzlies Verde",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Memphis Grizzlies"
+ },
+ {
+  "id": "NBA-MEM-03",
+  "nome": "Regata Memphis Grizzlies Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Memphis Grizzlies"
+ },
+ {
+  "id": "NBA-MEM-04",
+  "nome": "Regata Memphis Grizzlies 2025 City Edition Vermelha",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Memphis Grizzlies"
+ },
+ {
+  "id": "NBA-MEM-05",
+  "nome": "Regata Retrô Memphis Grizzlies 2025 Branca",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Memphis Grizzlies"
+ },
+ {
+  "id": "NBA-MEM-06",
+  "nome": "Regata Retrô Memphis Grizzlies 2026 Preta",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Memphis Grizzlies"
+ },
+ {
+  "id": "NBA-MEM-07",
+  "nome": "Regata Infantil Memphis Grizzlies Branca",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Memphis Grizzlies"
+ },
+ {
+  "id": "NBA-MEM-08",
+  "nome": "Regata Infantil Memphis Grizzlies Azul Safira",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Memphis Grizzlies"
+ },
+ {
+  "id": "NBA-MIA-01",
+  "nome": "Regata Miami Heat Branca",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Miami Heat"
+ },
+ {
+  "id": "NBA-MIA-02",
+  "nome": "Regata Miami Heat 2025 City Edition Preta",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Miami Heat"
+ },
+ {
+  "id": "NBA-MIA-03",
+  "nome": "Regata Miami Heat 2025 City Edition Vermelha",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 6,
+  "liga": "nba",
+  "time": "Miami Heat"
+ },
+ {
+  "id": "NBA-MIA-04",
+  "nome": "Regata Miami Heat City Edition Branca",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Miami Heat"
+ },
+ {
+  "id": "NBA-MIA-05",
+  "nome": "Regata Retrô Miami Heat 2005/06 Vermelha",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Miami Heat"
+ },
+ {
+  "id": "NBA-MIA-06",
+  "nome": "Regata Retrô Miami Heat 2013/14 Preta",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Miami Heat"
+ },
+ {
+  "id": "NBA-MIA-07",
+  "nome": "Regata Infantil Miami Heat Branca",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Miami Heat"
+ },
+ {
+  "id": "NBA-MIA-08",
+  "nome": "Regata Infantil Miami Heat Preta",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Miami Heat"
+ },
+ {
+  "id": "NBA-MIL-01",
+  "nome": "Regata Milwaukee Bucks Verde",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Milwaukee Bucks"
+ },
+ {
+  "id": "NBA-MIL-02",
+  "nome": "Regata Milwaukee Bucks 2025/26 City Edition Azul",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Milwaukee Bucks"
+ },
+ {
+  "id": "NBA-MIL-03",
+  "nome": "Regata Milwaukee Bucks Honor Edition Preta",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Milwaukee Bucks"
+ },
+ {
+  "id": "NBA-MIL-04",
+  "nome": "Regata Retrô Milwaukee Bucks 2026 Branca",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Milwaukee Bucks"
+ },
+ {
+  "id": "NBA-MIN-01",
+  "nome": "Regata Minnesota Timberwolves Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "Minnesota Timberwolves"
+ },
+ {
+  "id": "NBA-MIN-02",
+  "nome": "Regata Minnesota Timberwolves Branca",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Minnesota Timberwolves"
+ },
+ {
+  "id": "NBA-MIN-03",
+  "nome": "Regata Minnesota Timberwolves Azul",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Minnesota Timberwolves"
+ },
+ {
+  "id": "NBA-MIN-04",
+  "nome": "Regata Minnesota Timberwolves Verde",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Minnesota Timberwolves"
+ },
+ {
+  "id": "NBA-MIN-05",
+  "nome": "Regata Minnesota Timberwolves 2026/27 City Edition Preta",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "Minnesota Timberwolves"
+ },
+ {
+  "id": "NBA-MIN-06",
+  "nome": "Regata Minnesota Timberwolves 2025 City Edition Branca",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Minnesota Timberwolves"
+ },
+ {
+  "id": "NBA-MIN-07",
+  "nome": "Regata Retrô Minnesota Timberwolves 2003/04 Azul",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Minnesota Timberwolves"
+ },
+ {
+  "id": "NBA-MIN-08",
+  "nome": "Regata Retrô Minnesota Timberwolves 2018 Preta",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 6,
+  "liga": "nba",
+  "time": "Minnesota Timberwolves"
+ },
+ {
+  "id": "NBA-MIN-09",
+  "nome": "Regata Retrô Minnesota Timberwolves 2026 Roxa",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Minnesota Timberwolves"
+ },
+ {
+  "id": "NBA-NOP-01",
+  "nome": "Regata New Orleans Pelicans Branca",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "New Orleans Pelicans"
+ },
+ {
+  "id": "NBA-NOP-02",
+  "nome": "Regata New Orleans Pelicans Azul-marinho",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "New Orleans Pelicans"
+ },
+ {
+  "id": "NBA-NOP-03",
+  "nome": "Regata New Orleans Pelicans Vermelha",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "New Orleans Pelicans"
+ },
+ {
+  "id": "NBA-NOP-04",
+  "nome": "Regata New Orleans Pelicans Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "New Orleans Pelicans"
+ },
+ {
+  "id": "NBA-NYK-01",
+  "nome": "Regata New York Knicks Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "New York Knicks"
+ },
+ {
+  "id": "NBA-NYK-02",
+  "nome": "Regata New York Knicks Branca",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "New York Knicks"
+ },
+ {
+  "id": "NBA-NYK-03",
+  "nome": "Regata New York Knicks Azul",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "New York Knicks"
+ },
+ {
+  "id": "NBA-NYK-04",
+  "nome": "Regata New York Knicks 2025 City Edition Branca",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 6,
+  "liga": "nba",
+  "time": "New York Knicks"
+ },
+ {
+  "id": "NBA-NYK-05",
+  "nome": "Regata New York Knicks 2025 City Edition Azul",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "New York Knicks"
+ },
+ {
+  "id": "NBA-NYK-06",
+  "nome": "Regata New York Knicks City Edition Azul",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "New York Knicks"
+ },
+ {
+  "id": "NBA-NYK-07",
+  "nome": "Regata Retrô New York Knicks 1991/92 Azul",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "New York Knicks"
+ },
+ {
+  "id": "NBA-NYK-08",
+  "nome": "Regata Retrô New York Knicks 1998/99 Cinza",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "New York Knicks"
+ },
+ {
+  "id": "NBA-OKC-01",
+  "nome": "Regata Oklahoma City Thunder Branca",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Oklahoma City Thunder"
+ },
+ {
+  "id": "NBA-OKC-02",
+  "nome": "Regata Oklahoma City Thunder Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Oklahoma City Thunder"
+ },
+ {
+  "id": "NBA-OKC-03",
+  "nome": "Regata Oklahoma City Thunder Laranja",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Oklahoma City Thunder"
+ },
+ {
+  "id": "NBA-OKC-04",
+  "nome": "Regata Oklahoma City Thunder Azul",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Oklahoma City Thunder"
+ },
+ {
+  "id": "NBA-OKC-05",
+  "nome": "Regata Oklahoma City Thunder 2025/26 City Edition Azul Safira",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Oklahoma City Thunder"
+ },
+ {
+  "id": "NBA-OKC-06",
+  "nome": "Regata Oklahoma City Thunder 2025 City Edition Preta",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Oklahoma City Thunder"
+ },
+ {
+  "id": "NBA-OKC-07",
+  "nome": "Regata Retrô Oklahoma City Thunder 1988/89 Azul",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Oklahoma City Thunder"
+ },
+ {
+  "id": "NBA-OKC-08",
+  "nome": "Regata Retrô Oklahoma City Thunder 2015/16 Azul-marinho",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Oklahoma City Thunder"
+ },
+ {
+  "id": "NBA-ORL-01",
+  "nome": "Regata Orlando Magic Branca",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 5,
+  "liga": "nba",
+  "time": "Orlando Magic"
+ },
+ {
+  "id": "NBA-ORL-02",
+  "nome": "Regata Orlando Magic Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "Orlando Magic"
+ },
+ {
+  "id": "NBA-ORL-03",
+  "nome": "Regata Orlando Magic Azul Royal",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Orlando Magic"
+ },
+ {
+  "id": "NBA-ORL-04",
+  "nome": "Regata Orlando Magic Azul Safira",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Orlando Magic"
+ },
+ {
+  "id": "NBA-ORL-05",
+  "nome": "Regata Orlando Magic 2025/26 City Edition",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Orlando Magic"
+ },
+ {
+  "id": "NBA-ORL-06",
+  "nome": "Regata Retrô Orlando Magic Mitchell & Ness Azul",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Orlando Magic"
+ },
+ {
+  "id": "NBA-ORL-07",
+  "nome": "Regata Retrô Orlando Magic Mitchell & Ness Preta",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Orlando Magic"
+ },
+ {
+  "id": "NBA-ORL-08",
+  "nome": "Regata Retrô Orlando Magic Mitchell & Ness Branca",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Orlando Magic"
+ },
+ {
+  "id": "NBA-ORL-09",
+  "nome": "Regata Retrô Orlando Magic 1993 Branca",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Orlando Magic"
+ },
+ {
+  "id": "NBA-ORL-10",
+  "nome": "Regata Retrô Orlando Magic 1994/95 Cinza",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Orlando Magic"
+ },
+ {
+  "id": "NBA-ORL-11",
+  "nome": "Regata Retrô Orlando Magic 2000/01 Azul",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Orlando Magic"
+ },
+ {
+  "id": "NBA-ORL-12",
+  "nome": "Regata Retrô Orlando Magic 2003 Preta",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Orlando Magic"
+ },
+ {
+  "id": "NBA-ORL-13",
+  "nome": "Regata Retrô Orlando Magic 2019 Azul Royal",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "Orlando Magic"
+ },
+ {
+  "id": "NBA-ORL-14",
+  "nome": "Regata Retrô Orlando Magic 2019 Azul Safira",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Orlando Magic"
+ },
+ {
+  "id": "NBA-PHI-01",
+  "nome": "Regata Philadelphia 76ers 2025 City Edition Branca",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "Philadelphia 76ers"
+ },
+ {
+  "id": "NBA-PHI-02",
+  "nome": "Regata Philadelphia 76ers 2021 City Edition Azul Safira",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Philadelphia 76ers"
+ },
+ {
+  "id": "NBA-PHI-03",
+  "nome": "Regata Retrô Philadelphia 76ers Mitchell & Ness Azul",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Philadelphia 76ers"
+ },
+ {
+  "id": "NBA-PHI-04",
+  "nome": "Regata Retrô Philadelphia 76ers Mitchell & Ness Vermelha",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Philadelphia 76ers"
+ },
+ {
+  "id": "NBA-PHI-05",
+  "nome": "Regata Retrô Philadelphia 76ers 1996/97 Vermelha",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Philadelphia 76ers"
+ },
+ {
+  "id": "NBA-PHI-06",
+  "nome": "Regata Retrô Philadelphia 76ers 1996/97 Azul",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Philadelphia 76ers"
+ },
+ {
+  "id": "NBA-PHI-07",
+  "nome": "Regata Retrô Philadelphia 76ers 2003/04 Branca",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 5,
+  "liga": "nba",
+  "time": "Philadelphia 76ers"
+ },
+ {
+  "id": "NBA-PHI-08",
+  "nome": "Regata Retrô Philadelphia 76ers 2026 Preta",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 5,
+  "liga": "nba",
+  "time": "Philadelphia 76ers"
+ },
+ {
+  "id": "NBA-PHX-01",
+  "nome": "Regata Phoenix Suns Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 6,
+  "liga": "nba",
+  "time": "Phoenix Suns"
+ },
+ {
+  "id": "NBA-PHX-02",
+  "nome": "Regata Phoenix Suns 2025 City Edition Roxa",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Phoenix Suns"
+ },
+ {
+  "id": "NBA-PHX-03",
+  "nome": "Regata Phoenix Suns City Edition Roxa",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "Phoenix Suns"
+ },
+ {
+  "id": "NBA-PHX-04",
+  "nome": "Regata Retrô Phoenix Suns 2026 Branca",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Phoenix Suns"
+ },
+ {
+  "id": "NBA-POR-01",
+  "nome": "Regata Portland Trail Blazers Vermelha",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Portland Trail Blazers"
+ },
+ {
+  "id": "NBA-POR-02",
+  "nome": "Regata Portland Trail Blazers Branca",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Portland Trail Blazers"
+ },
+ {
+  "id": "NBA-POR-03",
+  "nome": "Regata Portland Trail Blazers Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Portland Trail Blazers"
+ },
+ {
+  "id": "NBA-POR-04",
+  "nome": "Regata Retrô Portland Trail Blazers 1983/84 Vermelha",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Portland Trail Blazers"
+ },
+ {
+  "id": "NBA-SAC-01",
+  "nome": "Regata Sacramento Kings Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Sacramento Kings"
+ },
+ {
+  "id": "NBA-SAC-02",
+  "nome": "Regata Sacramento Kings Branca",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Sacramento Kings"
+ },
+ {
+  "id": "NBA-SAC-03",
+  "nome": "Regata Sacramento Kings",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Sacramento Kings"
+ },
+ {
+  "id": "NBA-SAC-04",
+  "nome": "Regata Sacramento Kings 2025/26 City Edition Azul",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Sacramento Kings"
+ },
+ {
+  "id": "NBA-SAC-05",
+  "nome": "Regata Sacramento Kings 2025 City Edition Roxa",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Sacramento Kings"
+ },
+ {
+  "id": "NBA-SAC-06",
+  "nome": "Regata Retrô Sacramento Kings 1998/99 Mitchell & Ness Preta",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Sacramento Kings"
+ },
+ {
+  "id": "NBA-SAC-07",
+  "nome": "Regata Retrô Sacramento Kings 2001/02 Preta",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Sacramento Kings"
+ },
+ {
+  "id": "NBA-SAS-01",
+  "nome": "Regata San Antonio Spurs Cinza",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 14,
+  "liga": "nba",
+  "time": "San Antonio Spurs"
+ },
+ {
+  "id": "NBA-SAS-02",
+  "nome": "Regata San Antonio Spurs Branca",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "San Antonio Spurs"
+ },
+ {
+  "id": "NBA-SAS-03",
+  "nome": "Regata San Antonio Spurs Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "San Antonio Spurs"
+ },
+ {
+  "id": "NBA-SAS-04",
+  "nome": "Regata San Antonio Spurs 2026/27 City Edition Preta",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 10,
+  "liga": "nba",
+  "time": "San Antonio Spurs"
+ },
+ {
+  "id": "NBA-SAS-05",
+  "nome": "Regata San Antonio Spurs 2025 City Edition Azul-claro",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 4,
+  "liga": "nba",
+  "time": "San Antonio Spurs"
+ },
+ {
+  "id": "NBA-SAS-06",
+  "nome": "Regata Retrô San Antonio Spurs 1998/99 Cinza",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "San Antonio Spurs"
+ },
+ {
+  "id": "NBA-SAS-07",
+  "nome": "Regata Retrô San Antonio Spurs 2002/03 Preta",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 7,
+  "liga": "nba",
+  "time": "San Antonio Spurs"
+ },
+ {
+  "id": "NBA-SAS-08",
+  "nome": "Regata Retrô San Antonio Spurs 2002/03 Branca",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "San Antonio Spurs"
+ },
+ {
+  "id": "NBA-SAS-09",
+  "nome": "Regata Infantil San Antonio Spurs Preta",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "San Antonio Spurs"
+ },
+ {
+  "id": "NBA-SAS-10",
+  "nome": "Regata Infantil San Antonio Spurs Branca",
+  "cat": "infantil",
+  "tipo": "infantil",
+  "preco": 179.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "San Antonio Spurs"
+ },
+ {
+  "id": "NBA-TOR-01",
+  "nome": "Regata Toronto Raptors Branca",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Toronto Raptors"
+ },
+ {
+  "id": "NBA-TOR-02",
+  "nome": "Regata Toronto Raptors Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Toronto Raptors"
+ },
+ {
+  "id": "NBA-TOR-03",
+  "nome": "Regata Toronto Raptors Vermelha",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Toronto Raptors"
+ },
+ {
+  "id": "NBA-TOR-04",
+  "nome": "Regata Retrô Toronto Raptors Roxa",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 7,
+  "liga": "nba",
+  "time": "Toronto Raptors"
+ },
+ {
+  "id": "NBA-TOR-05",
+  "nome": "Regata Retrô Toronto Raptors Branca",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Toronto Raptors"
+ },
+ {
+  "id": "NBA-TOR-06",
+  "nome": "Regata Retrô Toronto Raptors 1998/99 Mitchell & Ness Roxa",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Toronto Raptors"
+ },
+ {
+  "id": "NBA-TOR-07",
+  "nome": "Regata Retrô Toronto Raptors 1998/99 Mitchell & Ness Branca",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Toronto Raptors"
+ },
+ {
+  "id": "NBA-TOR-08",
+  "nome": "Regata Retrô Toronto Raptors 1999/00 Preta",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Toronto Raptors"
+ },
+ {
+  "id": "NBA-UTA-01",
+  "nome": "Regata Utah Jazz Branca",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Utah Jazz"
+ },
+ {
+  "id": "NBA-UTA-02",
+  "nome": "Regata Utah Jazz Roxa",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Utah Jazz"
+ },
+ {
+  "id": "NBA-UTA-03",
+  "nome": "Regata Utah Jazz Preta",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Utah Jazz"
+ },
+ {
+  "id": "NBA-UTA-04",
+  "nome": "Regata Retrô Utah Jazz Roxa",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Utah Jazz"
+ },
+ {
+  "id": "NBA-UTA-05",
+  "nome": "Regata Retrô Utah Jazz 1996/97 Mitchell & Ness Roxa",
+  "cat": "retro",
+  "tipo": "adulto",
+  "preco": 229.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Utah Jazz"
+ },
+ {
+  "id": "NBA-WAS-01",
+  "nome": "Regata Washington Wizards Azul Safira",
+  "cat": "temporada",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Washington Wizards"
+ },
+ {
+  "id": "NBA-WAS-02",
+  "nome": "Regata Washington Wizards 2025/26 City Edition",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Washington Wizards"
+ },
+ {
+  "id": "NBA-WAS-03",
+  "nome": "Regata Washington Wizards 2025 City Edition Preta",
+  "cat": "especiais",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 3,
+  "liga": "nba",
+  "time": "Washington Wizards"
+ },
+ {
+  "id": "NBA-ASG-X01",
+  "nome": "Regata All-Star 2024 Vermelha",
+  "cat": "allstar",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "All-Star"
+ },
+ {
+  "id": "NBA-ASG-X02",
+  "nome": "Regata All-Star 2025 Azul-bebê",
+  "cat": "allstar",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "All-Star"
+ },
+ {
+  "id": "NBA-ASG-X03",
+  "nome": "Regata All-Star 2025 Azul-marinho",
+  "cat": "allstar",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "All-Star"
+ },
+ {
+  "id": "NBA-ATL-X01",
+  "nome": "Agasalho Atlanta Hawks Vermelho",
+  "cat": "agasalhos",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 1,
+  "liga": "nba",
+  "time": "Atlanta Hawks"
+ },
+ {
+  "id": "NBA-BOS-X01",
+  "nome": "Agasalho Boston Celtics Verde",
+  "cat": "agasalhos",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 1,
+  "liga": "nba",
+  "time": "Boston Celtics"
+ },
+ {
+  "id": "NBA-BOS-X02",
+  "nome": "Camiseta Casual Boston Celtics Branca",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Boston Celtics"
+ },
+ {
+  "id": "NBA-BOS-X03",
+  "nome": "Camiseta Casual Boston Celtics Preta",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Boston Celtics"
+ },
+ {
+  "id": "NBA-BKN-X01",
+  "nome": "Shorts Brooklyn Nets Azul",
+  "cat": "shorts",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 1,
+  "liga": "nba",
+  "time": "Brooklyn Nets"
+ },
+ {
+  "id": "NBA-CHA-X01",
+  "nome": "Shorts de Treino Charlotte Hornets Azul",
+  "cat": "shorts",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 1,
+  "liga": "nba",
+  "time": "Charlotte Hornets"
+ },
+ {
+  "id": "NBA-CHI-X01",
+  "nome": "Agasalho Chicago Bulls Vermelho",
+  "cat": "agasalhos",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 1,
+  "liga": "nba",
+  "time": "Chicago Bulls"
+ },
+ {
+  "id": "NBA-CHI-X02",
+  "nome": "Camiseta Retrô Chicago Bulls Branca",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Chicago Bulls"
+ },
+ {
+  "id": "NBA-CHI-X03",
+  "nome": "Camiseta Casual Chicago Bulls Branca",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Chicago Bulls"
+ },
+ {
+  "id": "NBA-CHI-X04",
+  "nome": "Camiseta Casual Chicago Bulls Preta",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Chicago Bulls"
+ },
+ {
+  "id": "NBA-CHI-X05",
+  "nome": "Shorts Moletom Chicago Bulls Preto",
+  "cat": "shorts",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 1,
+  "liga": "nba",
+  "time": "Chicago Bulls"
+ },
+ {
+  "id": "NBA-CHI-X06",
+  "nome": "Shorts Chicago Bulls Vermelho",
+  "cat": "shorts",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 1,
+  "liga": "nba",
+  "time": "Chicago Bulls"
+ },
+ {
+  "id": "NBA-CLE-X01",
+  "nome": "Camiseta Retrô Cleveland Cavaliers Branca",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Cleveland Cavaliers"
+ },
+ {
+  "id": "NBA-DAL-X01",
+  "nome": "Camiseta Retrô Dallas Mavericks Branca",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Dallas Mavericks"
+ },
+ {
+  "id": "NBA-DEN-X01",
+  "nome": "Shorts Moletom Denver Nuggets Azul",
+  "cat": "shorts",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 1,
+  "liga": "nba",
+  "time": "Denver Nuggets"
+ },
+ {
+  "id": "NBA-GSW-X01",
+  "nome": "Camiseta Casual Golden State Warriors Azul",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Golden State Warriors"
+ },
+ {
+  "id": "NBA-GSW-X02",
+  "nome": "Camiseta de Treino Golden State Warriors",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Golden State Warriors"
+ },
+ {
+  "id": "NBA-GSW-X03",
+  "nome": "Camiseta Casual Golden State Warriors Preta",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Golden State Warriors"
+ },
+ {
+  "id": "NBA-GSW-X04",
+  "nome": "Shorts Retrô Golden State Warriors Branco",
+  "cat": "shorts",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 1,
+  "liga": "nba",
+  "time": "Golden State Warriors"
+ },
+ {
+  "id": "NBA-GSW-X05",
+  "nome": "Shorts City Edition Golden State Warriors Azul",
+  "cat": "shorts",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 1,
+  "liga": "nba",
+  "time": "Golden State Warriors"
+ },
+ {
+  "id": "NBA-HOU-X01",
+  "nome": "Camiseta Retrô Houston Rockets Branca",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Houston Rockets"
+ },
+ {
+  "id": "NBA-LAC-X01",
+  "nome": "Shorts Moletom LA Clippers Branco",
+  "cat": "shorts",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 1,
+  "liga": "nba",
+  "time": "LA Clippers"
+ },
+ {
+  "id": "NBA-LAC-X02",
+  "nome": "Shorts Moletom LA Clippers Azul",
+  "cat": "shorts",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 1,
+  "liga": "nba",
+  "time": "LA Clippers"
+ },
+ {
+  "id": "NBA-LAL-X01",
+  "nome": "Camiseta Casual Los Angeles Lakers Preta",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-X02",
+  "nome": "Camiseta Casual Los Angeles Lakers Branca",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-X03",
+  "nome": "Camiseta de Treino Los Angeles Lakers",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-X04",
+  "nome": "Camiseta de Treino Los Angeles Lakers",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-X05",
+  "nome": "Camiseta Casual Los Angeles Lakers Azul",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-X06",
+  "nome": "Camiseta de Treino Los Angeles Lakers",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-X07",
+  "nome": "Camiseta de Treino Los Angeles Lakers",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-X08",
+  "nome": "Camiseta de Treino Los Angeles Lakers",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-X09",
+  "nome": "Shorts Los Angeles Lakers Preto",
+  "cat": "shorts",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 1,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-LAL-X10",
+  "nome": "Shorts City Edition Los Angeles Lakers",
+  "cat": "shorts",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 1,
+  "liga": "nba",
+  "time": "Los Angeles Lakers"
+ },
+ {
+  "id": "NBA-MEM-X01",
+  "nome": "Camiseta Casual Memphis Grizzlies Azul",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Memphis Grizzlies"
+ },
+ {
+  "id": "NBA-MEM-X02",
+  "nome": "Camiseta Casual Memphis Grizzlies Preta",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Memphis Grizzlies"
+ },
+ {
+  "id": "NBA-MEM-X03",
+  "nome": "Shorts Moletom Memphis Grizzlies Branco",
+  "cat": "shorts",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 1,
+  "liga": "nba",
+  "time": "Memphis Grizzlies"
+ },
+ {
+  "id": "NBA-MIA-X01",
+  "nome": "Agasalho Miami Heat Vinho",
+  "cat": "agasalhos",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 1,
+  "liga": "nba",
+  "time": "Miami Heat"
+ },
+ {
+  "id": "NBA-MIA-X02",
+  "nome": "Camiseta Retrô Miami Heat Branca",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Miami Heat"
+ },
+ {
+  "id": "NBA-MIA-X03",
+  "nome": "Camiseta Casual Miami Heat Branca",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Miami Heat"
+ },
+ {
+  "id": "NBA-MIA-X04",
+  "nome": "Camiseta Casual Miami Heat Branca",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Miami Heat"
+ },
+ {
+  "id": "NBA-MIA-X05",
+  "nome": "Camiseta Casual Miami Heat Preta",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Miami Heat"
+ },
+ {
+  "id": "NBA-MIA-X06",
+  "nome": "Shorts de Treino Miami Heat Preto",
+  "cat": "shorts",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 1,
+  "liga": "nba",
+  "time": "Miami Heat"
+ },
+ {
+  "id": "NBA-MIL-X01",
+  "nome": "Agasalho Milwaukee Bucks Verde",
+  "cat": "agasalhos",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 1,
+  "liga": "nba",
+  "time": "Milwaukee Bucks"
+ },
+ {
+  "id": "NBA-MIN-X01",
+  "nome": "Shorts Moletom Minnesota Timberwolves Azul-marinho",
+  "cat": "shorts",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 1,
+  "liga": "nba",
+  "time": "Minnesota Timberwolves"
+ },
+ {
+  "id": "NBA-MIN-X02",
+  "nome": "Shorts Retrô Minnesota Timberwolves Preto",
+  "cat": "shorts",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 1,
+  "liga": "nba",
+  "time": "Minnesota Timberwolves"
+ },
+ {
+  "id": "NBA-NYK-X01",
+  "nome": "Camiseta Retrô New York Knicks Branca",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "New York Knicks"
+ },
+ {
+  "id": "NBA-NYK-X02",
+  "nome": "Camiseta Retrô New York Knicks Branca",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "New York Knicks"
+ },
+ {
+  "id": "NBA-ORL-X01",
+  "nome": "Camiseta Retrô Orlando Magic Branca",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Orlando Magic"
+ },
+ {
+  "id": "NBA-PHI-X01",
+  "nome": "Camiseta Retrô Philadelphia 76ers Branca",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Philadelphia 76ers"
+ },
+ {
+  "id": "NBA-SAS-X01",
+  "nome": "Camiseta Retrô San Antonio Spurs Branca",
+  "cat": "camisetas",
+  "tipo": "adulto",
+  "preco": null,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "San Antonio Spurs"
+ },
+ {
+  "id": "NBA-USA-X01",
+  "nome": "Regata Seleção EUA 2024 Vermelha",
+  "cat": "allstar",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Seleção EUA"
+ },
+ {
+  "id": "NBA-USA-X02",
+  "nome": "Regata Seleção EUA 2024 Branca",
+  "cat": "allstar",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Seleção EUA"
+ },
+ {
+  "id": "NBA-USA-X03",
+  "nome": "Regata Seleção EUA 2024 Azul Safira",
+  "cat": "allstar",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Seleção EUA"
+ },
+ {
+  "id": "NBA-FRA-X01",
+  "nome": "Regata Seleção França 2024 Branca",
+  "cat": "allstar",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Seleção França"
+ },
+ {
+  "id": "NBA-FRA-X02",
+  "nome": "Regata Seleção França 2024 Azul Safira",
+  "cat": "allstar",
+  "tipo": "adulto",
+  "preco": 197.0,
+  "jogadores": 2,
+  "liga": "nba",
+  "time": "Seleção França"
+ }
+]
