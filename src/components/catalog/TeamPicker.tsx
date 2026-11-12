@@ -23,7 +23,7 @@ export function TeamPicker({ selected, counts, totalAll, onSelect }: Props) {
   return (
     <>
       {/* mobile / tablet: chips horizontais */}
-      <div className="lg:hidden">
+      <div className="min-w-0 lg:hidden">
         <div
           role="group"
           aria-label="Filtrar por time"

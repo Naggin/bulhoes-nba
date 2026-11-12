@@ -49,7 +49,7 @@ export function Catalog() {
     <main>
       <CatalogHeader team={team} count={items.length} total={PRODUCTS.length} />
 
-      <div className="container-x grid gap-6 py-6 lg:grid-cols-[240px_minmax(0,1fr)] lg:gap-10 lg:py-10">
+      <div className="container-x grid grid-cols-[minmax(0,1fr)] gap-6 py-6 lg:grid-cols-[240px_minmax(0,1fr)] lg:gap-10 lg:py-10">
         <TeamPicker
           selected={team}
           counts={teamCounts}
